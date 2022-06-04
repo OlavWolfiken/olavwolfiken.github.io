@@ -1,5 +1,6 @@
 remote_theme: son-link/jekyll-theme-space
 plugins:
+- jekyll-remote-theme
 - jekyll-paginate
 paginate: 5 # Posts per page
 paginate_path: "page:num/"
