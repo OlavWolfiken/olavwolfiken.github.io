@@ -1,3 +1,11 @@
 remote_theme: victorvoid/space-jekyll-template
+# Site settings
 title: OlavWoliken
-description: Bruh
+description: 17yo · any neutral · INFP-T · writer
+# User settings
+username: OlavWoliken
+user_description: Lorem Developer
+user_title: Olaf Harlender
+email: olafharlender@gmail.com
+twitter_username: OlafHarlender
+github_username: OlavWolfiken
