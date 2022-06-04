@@ -1,7 +1,7 @@
-remote_theme: son-link/jekyll-theme-space
+theme: jekyll-simple-dark
 plugins:
-- jekyll-remote-theme
 - jekyll-paginate
+- jekyll-seo-tag #if you use this.
 paginate: 5 # Posts per page
 paginate_path: "page:num/"
 # Site settings
