@@ -1,7 +1,14 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
-gem "jekyll-theme-space"
-gem 'jekyll-paginate'
-gem 'jekyll-seo-tag'
-gemspec
+
+source 'https://rubygems.org'
+
+group :jekyll_plugins do
+    gem 'github-pages'
+    gem 'jekyll-seo-tag'
+    gem 'jekyll-gist'
+    gem 'jekyll-feed'
+    gem 'jemoji'
+    gem "jekyll-paginate-v2", "~> 2.0"
+    gem "html-proofer"
+end
