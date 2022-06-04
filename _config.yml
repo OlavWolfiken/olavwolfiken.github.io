@@ -116,9 +116,3 @@ compress_html:
     envs:
       - development
       - stage
-
-exclude:
-  [
-    "README.md",
-    "Gemfile",
-  ]
